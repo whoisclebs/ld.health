@@ -1,5 +1,5 @@
-import { ValidationComposite } from "../../../validation"
-import { RequiredFieldValidation } from "../../../validation/validators/field-required-validation"
+import { ValidationComposite } from "../../../validation/index.js"
+import { RequiredFieldValidation } from "../../../validation/validators/field-required-validation.js"
 
 export const makePredictValidation = () => {
     const validations = []

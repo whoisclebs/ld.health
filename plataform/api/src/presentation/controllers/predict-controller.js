@@ -1,4 +1,4 @@
-import { badRequest, serverError, ok } from '../helpers'
+import { badRequest, serverError, ok } from '../helpers/index.js'
 
 export class PredicController {
   constructor (

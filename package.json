@@ -5,7 +5,8 @@
     "plataform/*"
   ],
   "scripts": {
-    "start": "npm run start --workspaces --if-present",
+    "dev:api": "npm run start --workspace=api.ld.health",
+    "dev:front": "npm run dev --workspace=front.ld.health",
     "lint": "npm run lint --workspaces --if-present",
     "lint:fix": "npm run lint -- --fix",
     "test": "npm run test --workspaces --if-present",

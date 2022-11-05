@@ -1,4 +1,4 @@
-import { ServerError, UnauthorizedError } from '../errors'
+import { ServerError } from '../errors/index.js'
 
 export const badRequest = (error)  => ({
   statusCode: 400,
@@ -8,11 +8,6 @@ export const badRequest = (error)  => ({
 export const forbidden = (error) => ({
   statusCode: 403,
   body: error
-})
-
-export const unauthorized = () => ({
-  statusCode: 401,
-  body: new UnauthorizedError()
 })
 
 export const serverError = (error) => ({

@@ -1,4 +1,4 @@
-import { MissingParamError } from "../../presentation/errors/missing-param-error"
+import { MissingParamError } from "../../presentation/errors/missing-param-error.js"
 
 export class RequiredFieldValidation {
   constructor (fieldName) {

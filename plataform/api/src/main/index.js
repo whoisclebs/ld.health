@@ -1,5 +1,5 @@
 import env from './factories/env.js'
-import { makeApp } from ('./factories/app')
+import { makeApp } from './factories/app.js'
 
 makeApp().then(app => {
   app.listen(env.port, () => {
