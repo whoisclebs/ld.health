@@ -2,7 +2,7 @@
 import Footer from '../components/footer'
 import Navbar from '../components/navbar'
 import About from '../components/about'
-import Contact from '../components/contact'
+import Faq from '../components/faq'
 
 export default function Home() {
   return (
@@ -31,8 +31,7 @@ export default function Home() {
 
       </section>
       <About />
-      <Contact />
-
+      <Faq />
       <Footer />
     </section>
 
