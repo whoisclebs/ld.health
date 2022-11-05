@@ -14,6 +14,7 @@
 <hr />
 
 ![GitHub](https://img.shields.io/github/license/clebsonf/ld.health)
+[![DOI](https://zenodo.org/badge/561061319.svg)](https://zenodo.org/badge/latestdoi/561061319)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhealth.ledthinking.app)](https://health.ledthinking.app)
 
 ## Features
