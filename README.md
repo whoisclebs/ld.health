@@ -25,5 +25,10 @@ Fork this repository
 ```bash
    https://github.com/clebsonf/ledthinking.health-api/fork
 ```
+
+![Steps](https://user-images.githubusercontent.com/43012757/200142963-110f29be-e931-4422-982e-a6962a8b4f1a.gif)
+
+
+
 ## Copyright
 Copyright (C) 2022 Ledthinking.
