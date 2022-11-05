@@ -1,4 +1,6 @@
 cff-version: 1.1.0
+title: An open source application for machine learning analysis of DICOM images to support cancer research.
+abstract: This application provides an interface to classify MRIs between healthy and cancerous.
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: Fonseca
@@ -10,7 +12,6 @@ authors:
     given-names: Joyce
   - family-names: Medeiros
     given-names: Annielle
-title: ledthinking.health
 version: 0.0.1
 date-released: 2022-11-05
 doi: 10.5281/zenodo.7295045
