@@ -17,7 +17,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhealth.ledthinking.app)
 
 ## Features
-* Open-source
+* Breast cancer prediction 
 
 ## Usage
 Fork this repository
