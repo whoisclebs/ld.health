@@ -51,7 +51,7 @@ const config = {
       navbar: {
         title: 'LD Health',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo Ledthinking Health',
           src: 'img/logo.svg',
         },
         items: [
@@ -85,16 +85,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/ledthinking',
               },
             ],
           },
