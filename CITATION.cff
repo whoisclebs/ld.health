@@ -1,0 +1,31 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Fonseca
+    given-names: Clebson
+    orcid: https://orcid.org/0000-0003-4076-9650
+  - family-names: Queiroz
+    given-names: Breno
+  - family-names: Souza
+    given-names: Joyce
+  - family-names: Medeiros
+    given-names: Annielle
+title: ledthinking.health
+version: 0.0.1
+date-released: 2022-11-05
+doi: 10.5281/zenodo.7295045
+repository-code: https://github.com/clebsonf/ld.health
+references:
+- type: software
+  title: Citation File Format
+  authors:
+      - family-names: Fonseca
+        given-names: Clebson
+        orcid: https://orcid.org/0000-0003-4076-9650
+      - family-names: Queiroz
+        given-names: Breno
+      - family-names: Souza
+        given-names: Joyce
+      - family-names: Medeiros
+        given-names: Annielle
+license: MIT
