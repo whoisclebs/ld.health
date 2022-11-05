@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img width="33%" src="https://user-images.githubusercontent.com/43012757/200094891-e899c845-3758-44b6-b87f-c04670c54677.png" alt="Logo Ledthinking Health"></h1>
+    <h1><img src="https://user-images.githubusercontent.com/43012757/200094891-e899c845-3758-44b6-b87f-c04670c54677.png" alt="Logo Ledthinking Health"></h1>
     <p>Your <strong>open source</strong> medical analysis platform.</p>
 </div>
 
