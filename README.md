@@ -13,6 +13,9 @@
 
 <hr />
 
+![GitHub](https://img.shields.io/github/license/clebsonf/ld.health)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fhealth.ledthinking.app)
+
 ## Features
 * Open-source
 
