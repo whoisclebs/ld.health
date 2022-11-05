@@ -1,0 +1,13 @@
+{
+  "roots": ["<rootDir>/tests"],
+  "collectCoverageFrom": [
+    "<rootDir>/src/**/*.js",
+    "!<rootDir>/src/main/**"
+  ],
+  "testEnvironment": "node",
+  "coverageProvider": "babel",
+  "moduleNameMapper": {
+    "@/tests/(.*)": "<rootDir>/tests/$1",
+    "@/(.*)": "<rootDir>/src/$1"
+  }
+}
